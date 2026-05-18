@@ -90,4 +90,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#Github
+.github
+
 # End of https://www.toptal.com/developers/gitignore/api/maven,visualstudiocode,windows
+
