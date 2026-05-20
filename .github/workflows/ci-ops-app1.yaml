@@ -12,7 +12,7 @@ env:
   APP_NAME: ops-app1
   ECR_REPOSITORY: ops-app1
   AWS_REGION: ap-northeast-2
-  GITHUB_ORG: superb-dev
+  GITHUB_ORG: KwanHoYoo
   CONFIG_REPO: ${{ github.repository_owner }}/gitops-config
   CONFIG_REPO_PATH: apps/ops-app1/overlays
 
